@@ -1,0 +1,4 @@
+ultralytics
+torch
+onnxruntime
+opencv-python
